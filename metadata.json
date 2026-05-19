@@ -1,0 +1,6 @@
+{
+  "name": "SentinelOS",
+  "description": "Autonomous Enterprise Operations Intelligence platform for real-time monitoring and autonomous multi-agent orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
